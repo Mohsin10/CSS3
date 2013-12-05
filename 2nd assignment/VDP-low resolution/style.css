@@ -1,0 +1,120 @@
+/* CSS Document */
+span.a
+	{
+	display:block;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:47px;
+	padding:20px 0px 10px 60px;
+	}
+
+span.a1
+	{
+	display:block;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#990;
+	font-size:26px;
+	padding:0px 0px 0px 60px;
+	}
+
+span.a2
+	{
+	display:block;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:19px;
+	padding-left:60px;
+	}
+
+h3
+	{
+	font-family:Arial, Helvetica, sans-serif;
+	}
+
+h3.h
+	{
+	font-family:Arial, Helvetica, sans-serif;
+	padding:8px 0px 0px -5px;
+	}
+
+div.a
+	{
+	width:72%;
+	float:right;
+	}
+
+div.b
+	{
+	width:70%;
+	float:right;
+	}
+
+div.c
+	{
+	width:69%;
+	float:right;
+	}
+
+p.p1
+	{
+	font-family:Arial, Helvetica, sans-serif;
+	width:90%;
+	padding-left:60px;
+	}
+
+p.p2
+	{
+	font-family:Arial, Helvetica, sans-serif;
+	}
+
+ul.normal
+	{
+	padding-top:-12px;
+	padding-left:-24px;
+	margin-top:-12px;
+	margin-left:-24px;
+	font-size:15px;
+	}
+
+ul.normal2
+	{
+	font-size:15px;
+	padding-top:-12px;
+	padding-left:-24px;
+	margin-top:-12px;
+	margin-left:-24px;
+	}
+
+ul>li
+    {
+	 font-family:Arial, Helvetica, sans-serif;
+	 padding-top:4px;
+	}
+
+img.q
+	{
+	width:200px;
+	height:215px;
+	padding-left:55px;
+	}
+
+img.r
+	{
+	width:650px;
+	height:250px;
+	padding:20px 0px 0px 140px;
+	}
+
+img.s
+	{
+	width:140px;
+	height:145px;
+	padding:0px 0px 0px 120px;
+	}
+
+img.t
+	{
+	width:200px;
+	height:215px;
+	padding:0px 0px 0px 55px;
+	}
+
+

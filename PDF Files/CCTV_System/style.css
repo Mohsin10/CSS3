@@ -1,0 +1,142 @@
+/* CSS document */
+span#a
+{
+font-family:Arial, Helvetica, sans-serif;
+font-size:50px;
+padding-left:52px;
+}
+
+span#b
+{
+font-family:Arial, Helvetica, sans-serif;
+color:red;
+display:block;
+padding:0px 0px 0px 52px;
+}
+
+span#c
+{
+font-family:Arial, Helvetica, sans-serif;
+color:red;
+font-size:12px;
+padding-left:52px;
+}
+
+span.a
+{
+font-family:Arial, Helvetica, sans-serif;
+font-size:25px;
+color:#990;
+padding:-0px 0px 0px 52px;
+}
+
+span.b
+{
+font-family:Arial, Helvetica, sans-serif;
+font-size:21px;
+padding:10px 0px 0px 52px;
+}
+
+span.a1
+{
+color:#000;
+}
+
+div
+{
+width:100%;
+padding-top:30px;
+}
+
+div#a
+{
+width:90%;
+padding-top:0px;
+}
+
+div#b
+{
+width:50%;
+}
+
+div#c
+{
+width:30%;
+}
+
+div.a
+{
+width:60%; float:left;
+padding-top:0px;
+}
+
+div.a1
+{
+width:40%; float:left;
+padding-top:-0px;
+}
+
+div.b
+{
+width:50%; float:left;
+}
+
+div.b1
+{
+width:50%; float:left;
+}
+
+div.c
+{
+width:100%;
+padding-top:0px;
+}
+
+div.d
+{
+width:45%; float:left;
+padding-top:-0px;
+}
+
+div.d1
+{
+width:50%; float:left;
+padding-top:-0px;
+}
+
+p.a
+{
+font-family:Arial, Helvetica, sans-serif;
+padding:0px 0px 0px 52px;
+}
+
+ul.a
+{
+font-family:Arial, Helvetica, sans-serif;
+padding:0px 0px 0px 70px;
+}
+
+li.a
+{
+color:red;
+}
+
+img.a
+{
+padding-left:42px;
+}
+
+img.b
+{
+padding-left:100px;
+}
+
+img.c
+{
+padding-left:35px;
+}
+
+img.d
+{
+padding-left:26px;
+}
